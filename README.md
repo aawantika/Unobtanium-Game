@@ -12,7 +12,7 @@ Run the Unobtanium Final.exe
 Other notes
 ===========
 Since I was the only cs major in the group, my tasks consisted of:
-- [Gathering all the character and background images, scripts, and music for all three plays from the team members]
-- [Editing the images so that multiple characters could fit on one screen]
-- [Writing the entire code for the game]
-- [Constantly testing the game to make sure it works in the right order]
+- Gathering all the character and background images, scripts, and music for all three plays from the team members
+- Editing the images so that multiple characters could fit on one screen
+- Writing the entire code for the game
+- Constantly testing the game to make sure it works in the right order
